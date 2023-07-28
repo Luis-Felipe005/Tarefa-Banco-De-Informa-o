@@ -1,0 +1,15 @@
+C:\Users\DELL\source\repos\AtividadeContaBancária\AtividadeContaBancária\bin\Debug\net7.0\AtividadeContaBancária.exe
+C:\Users\DELL\source\repos\AtividadeContaBancária\AtividadeContaBancária\bin\Debug\net7.0\AtividadeContaBancária.deps.json
+C:\Users\DELL\source\repos\AtividadeContaBancária\AtividadeContaBancária\bin\Debug\net7.0\AtividadeContaBancária.runtimeconfig.json
+C:\Users\DELL\source\repos\AtividadeContaBancária\AtividadeContaBancária\bin\Debug\net7.0\AtividadeContaBancária.dll
+C:\Users\DELL\source\repos\AtividadeContaBancária\AtividadeContaBancária\bin\Debug\net7.0\AtividadeContaBancária.pdb
+C:\Users\DELL\source\repos\AtividadeContaBancária\AtividadeContaBancária\obj\Debug\net7.0\AtividadeContaBancária.csproj.AssemblyReference.cache
+C:\Users\DELL\source\repos\AtividadeContaBancária\AtividadeContaBancária\obj\Debug\net7.0\AtividadeContaBancária.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\source\repos\AtividadeContaBancária\AtividadeContaBancária\obj\Debug\net7.0\AtividadeContaBancária.AssemblyInfoInputs.cache
+C:\Users\DELL\source\repos\AtividadeContaBancária\AtividadeContaBancária\obj\Debug\net7.0\AtividadeContaBancária.AssemblyInfo.cs
+C:\Users\DELL\source\repos\AtividadeContaBancária\AtividadeContaBancária\obj\Debug\net7.0\AtividadeContaBancária.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\AtividadeContaBancária\AtividadeContaBancária\obj\Debug\net7.0\AtividadeContaBancária.dll
+C:\Users\DELL\source\repos\AtividadeContaBancária\AtividadeContaBancária\obj\Debug\net7.0\refint\AtividadeContaBancária.dll
+C:\Users\DELL\source\repos\AtividadeContaBancária\AtividadeContaBancária\obj\Debug\net7.0\AtividadeContaBancária.pdb
+C:\Users\DELL\source\repos\AtividadeContaBancária\AtividadeContaBancária\obj\Debug\net7.0\AtividadeContaBancária.genruntimeconfig.cache
+C:\Users\DELL\source\repos\AtividadeContaBancária\AtividadeContaBancária\obj\Debug\net7.0\ref\AtividadeContaBancária.dll
